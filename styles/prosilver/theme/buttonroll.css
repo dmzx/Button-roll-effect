@@ -138,3 +138,21 @@
 -moz-transition:all 250ms linear;
 -o-transition:all 250ms linear;
 }
+
+.dropdown-select:after {
+-webkit-transition:all 250ms linear;
+-moz-transition:all 250ms linear;
+-o-transition:all 250ms linear;
+}
+
+.pagination li.page-jump a, .pagination li.next a, .pagination li.previous a {
+-webkit-transition:all 250ms linear;
+-moz-transition:all 250ms linear;
+-o-transition:all 250ms linear;
+}
+
+.pagination li.page-jump a:hover, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger { 
+-webkit-transition:all 250ms linear;
+-moz-transition:all 250ms linear;
+-o-transition:all 250ms linear; 
+}
