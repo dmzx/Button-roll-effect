@@ -1,158 +1,155 @@
-.reply-icon:before, .pmreply-icon:before               { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.reply-icon:before, .pmreply-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.reply-icon:hover:before, .pmreply-icon:hover:before      { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.reply-icon:hover:before, .pmreply-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.post-icon:before, .newpm-icon:before, .reply-all:before, .video-icon:before   { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.post-icon:before, .newpm-icon:before, .reply-all:before, .video-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.post-icon:hover:before,
-.newpm-icon:hover:before,
-.reply-all:hover:before,
-.video-icon:hover:before                           { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.post-icon:hover:before, .newpm-icon:hover:before, .reply-all:hover:before, .video-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.locked-icon:before                                 { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.locked-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.locked-icon:hover:before                           { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.locked-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.forwardpm-icon:before                              { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.forwardpm-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.forwardpm-icon:hover:before                        {
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.forwardpm-icon:hover:before {
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
 .tools-icon:before, .modtools-icon:before, .search-icon:before, .search-adv-icon:before {
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.quote-icon:before                     { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.quote-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.quote-icon:hover:before               { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.quote-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.edit-icon:before                     { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.edit-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.edit-icon:hover:before                  { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.edit-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.warn-icon:before                     { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.warn-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.warn-icon:hover:before                  {
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.warn-icon:hover:before {
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.delete-icon:before                     { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.delete-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.delete-icon:hover:before               { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.delete-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.report-icon:before                     { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.report-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.report-icon:hover:before               { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.report-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.info-icon:before                     { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.info-icon:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.info-icon:hover:before                  { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.info-icon:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.button.responsive-menu-link:before         { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.button.responsive-menu-link:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
-.button.responsive-menu-link:hover:before   { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+.button.responsive-menu-link:hover:before { 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
 .dropdown-select:after {
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
 .pagination li.page-jump a, .pagination li.next a, .pagination li.previous a {
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear;
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear;
 }
 
 .pagination li.page-jump a:hover, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger { 
--webkit-transition:all 250ms linear;
--moz-transition:all 250ms linear;
--o-transition:all 250ms linear; 
+	-webkit-transition:all 250ms linear;
+	-moz-transition:all 250ms linear;
+	-o-transition:all 250ms linear; 
 }
