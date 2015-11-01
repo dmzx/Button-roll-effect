@@ -27,6 +27,11 @@
 		"display-name": "Button roll effect",
 		"soft-require": {
 			"phpbb/phpbb": ">=3.1.0-a1,<3.2.*@dev"
+		},
+		"version-check": {
+			"host": "www.dmzx-web.net",
+			"directory": "/versions",
+			"filename": "buttonroll_version.json"
 		}
 	}
 }
